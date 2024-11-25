@@ -1,0 +1,25 @@
+.img{
+    display: flex;
+    justify-content: space-between;
+    /* gap: 20px; */
+}
+
+/* .img img{
+    height: 200px;
+    width: 100%;
+} */
+
+.img1 img{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img2 img{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img3 img{
+    display: flex;
+    justify-content: space-between;
+}

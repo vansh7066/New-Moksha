@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar{
+display: flex;
+justify-content: space-between;
+height: 90px;
+width: 100%;
+/* background: aqua */
+}
+
+.title{
+margin: auto;
+color: coral;
+margin-left: 100px;
+}
+
+.title h2{
+font-size: 30px;
+font-weight: 500;
+}
+
+.lists ul{
+    display: flex;
+    margin: 35px;
+    margin-right: 100px;
+    padding-right: 50px;
+    list-style: none;
+    font-size: 17px;
+    gap: 30px;
+}

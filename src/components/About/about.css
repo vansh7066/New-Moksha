@@ -1,0 +1,49 @@
+.about{
+    margin: auto;
+    margin-left: 90px;
+    height: 100%;
+    margin-right: 100px;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.para p{
+    margin: 20px;
+    /* margin-right: 100px; */
+    font-size: 20px;
+}
+
+.heading1{
+    margin: 20px;
+}
+
+.heading1 p{
+    margin: 1px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.heading2{
+    margin: 20px;
+}
+
+.heading2 p{
+    margin: 1px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.img img{
+    height: 200px;
+    width: 100%;
+}
